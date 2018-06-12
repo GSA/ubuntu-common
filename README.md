@@ -1,7 +1,7 @@
-Role Name
+Role Name: Ubuntu Common
 =========
 
-A brief description of the role goes here.
+Installs the newest versions of packages and various dependencies for standard Ubuntu tools, plus installing Python.
 
 Requirements
 ------------
